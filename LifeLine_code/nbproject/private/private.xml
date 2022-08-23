@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/helpSeeker/HelpSeekerWorkAreaJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/common/ValidateEmailTextField.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/adminRole/ManageUserAccountJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/volunteer/ProcessHelpWorkRequestJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/mayor/ViewDetailedReportMayorJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/common/EmailAuthenticator.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/userAccountpkg/UserAccount.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/adminRole/AdminWorkAreaJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/adminRole/ManageEmployeeJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/ConfigureASystem.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/helpSeeker/SearchForVolunteerJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/enterprisepkg/Enterprise.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/MainJFrame.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/workQueuepkg/WorkRequest.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/common/RegistrationWorkAreaPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/enterprisepkg/EnterpriseDirectory.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/common/SendEmailAndTextMessage.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/helpSeeker/ManageHelpFromVolunteer.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/userInterface/adminRole/ManageOrganizationJPanel.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/workQueuepkg/WorkQueue.java</file>
+            <file>file:/D:/Downloads/LifeLine%20Java%20Project_Professor/LifeLine/src/business/enterprisepkg/LifeLineEnterprise.java</file>
+        </group>
+    </open-files>
+</project-private>
